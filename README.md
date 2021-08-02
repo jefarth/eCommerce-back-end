@@ -7,7 +7,12 @@ This project provides to a manager for an e-commerce company a back end for thei
 [Live Video](https://drive.google.com/file/d/1gasLzvmG47HAPTXvzCF8TmjLigYHPeNW/view)
 
 ### UPDATE 
+
 Currently not fully functional
+
+* /products is currently not connected
+* /tags is currently not connected
+* /category PUT requests do not work
 
 ## Table of Contents 
 
