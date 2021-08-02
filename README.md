@@ -4,6 +4,8 @@
   ## Description
 This project provides to a manager for an e-commerce company a back end for their e-commerce website so that they can compete with other e-commerce companies.
 
+[Live Video](https://drive.google.com/file/d/1gasLzvmG47HAPTXvzCF8TmjLigYHPeNW/view)
+
 ### UPDATE Currently Not Fully Functional
 
 ## Table of Contents 
